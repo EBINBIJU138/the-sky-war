@@ -1,10 +1,9 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jun 15, 2026, 01_19_10 AM" src="https://github.com/user-attachments/assets/cd1de87d-1aaf-45b6-8712-e8f8042e7285" />
+
 # 🚀 Sky War
 
 **Sky War** is an action-packed 3D sci-fi space combat game developed using **Unity** and **C#**. Players pilot powerful futuristic battleships through dangerous sectors of the galaxy, engaging in massive space battles, defending strategic space stations, and conquering enemy fleets. With stunning visuals, advanced combat systems, and immersive gameplay, Sky War delivers an epic interstellar warfare experience.
 
 ---
-<img width="1536" height="1024" alt="ChatGPT Image Jun 15, 2026, 01_19_00 AM" src="https://github.com/user-attachments/assets/28472702-f327-4967-ab55-ae390bc6d6f2" />
 
 ## 🎮 Game Overview
 
@@ -77,8 +76,6 @@ Used for:
 - Rigging
 - Cinematic assets
 - High-detail spacecraft
-<img width="1536" height="1024" alt="ChatGPT Image Jun 15, 2026, 01_19_00 AM" src="https://github.com/user-attachments/assets/ed1d5afc-e322-464c-bdcd-13e45bf9409d" />
-  
 
 ### Sketchfab
 Used for:
@@ -95,7 +92,18 @@ Used for:
 - Icons
 - Promotional artwork
 
----
+---<img width="642" height="367" alt="enemies" src="https://github.com/user-attachments/assets/839ec6a5-bbf8-49bf-9eff-b65f7d1839e5" />
+<img width="659" height="377" alt="waves" src="https://github.com/user-attachments/assets/441e6f51-aecb-4f14-86b3-31d202eba08e" />
+<img width="465" height="265" alt="screen3" src="https://github.com/user-attachments/assets/32761c85-e655-49d5-a0a6-54779442ba05" />
+<img width="430" height="235" alt="screen2" src="https://github.com/user-attachments/assets/dd9d5936-da27-478b-9989-01dd827a3d57" />
+<img width="319" height="209" alt="pickups2" src="https://github.com/user-attachments/assets/ebbcba72-2311-44bb-9033-8f499eece706" />
+<img width="319" height="209" alt="pickups1" src="https://github.com/user-attachments/assets/71f8cd06-bcd1-43fa-aa07-60176b8b7b0c" />
+<img width="565" height="323" alt="gameplay" src="https://github.com/user-attachments/assets/180f419d-3848-4de0-ba17-8f6346cf71a2" />
+<img width="960" height="526" alt="game_over" src="https://github.com/user-attachments/assets/2cab33bb-553c-4b36-ab0a-61441ac93045" />
+<img width="514" height="431" alt="game_menu" src="https://github.com/user-attachments/assets/cf453eeb-2237-43c6-926d-26efd0cea08e" />
+<img width="514" height="431" alt="game_menu" src="https://github.com/user-attachments/assets/62a950cc-bb68-4077-afa0-88bc0235a092" />
+<img width="642" height="367" alt="enemies" src="https://github.com/user-attachments/assets/c93b8932-e215-4cf0-a3b1-580b8124bb54" />
+
 
 
 ## 🎨 Art Pipeline
